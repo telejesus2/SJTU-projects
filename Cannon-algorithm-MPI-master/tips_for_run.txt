@@ -1,0 +1,4 @@
+First argument is the number of processes
+Second argument is the size of the square matrix
+
+Doesn't work for blocs of an important size
