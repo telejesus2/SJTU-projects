@@ -1,1 +1,0 @@
-# -SJTU-Cannon-algorithm-MPI
