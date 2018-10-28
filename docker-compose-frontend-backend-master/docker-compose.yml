@@ -1,0 +1,11 @@
+version: '2.2'
+services:
+  backend:
+    build: 
+      context: ./backend
+
+  frontend:
+    build: 
+      context: ./frontend
+    ports:
+      - 8888:8888
